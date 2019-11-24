@@ -79,7 +79,7 @@ router.put(
       return res.status(401).json({ msg: 'User not authorized' });
     }
 
-    const posts = new Post({
+    const post = new Post({
       title: req.body.title,
       content: req.body.content,
       created_at: req.body.created_at,

@@ -17,7 +17,7 @@
     "express-validator": "^5.3.1",
     "gravatar": "^1.8.0",
     "has": "^1.0.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lower-case": "^1.1.4",
     "mongoose": "^5.7.5",
     "password-validator": "^5.0.3",
